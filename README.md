@@ -6,5 +6,5 @@ Ideally we would like to build these models from scratch as to further the rewar
 
 Project undertaken by 
 Ryan P. Gonzales
-Johnathan Arsola
+Jonathan Arsola
 
