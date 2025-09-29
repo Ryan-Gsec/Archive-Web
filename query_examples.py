@@ -10,7 +10,7 @@ def general_example():
     print(r)
 #general_example()
 
-#Api Research Agenda
+#######Api Research Agenda
 #3.1 Search Parameters
 #using search_query parameter
 def search_query_eg():
@@ -25,7 +25,7 @@ def search_query_eg():
 
 #using id_list parameter 
 #valid structure of id_list parameter: YYDD.NNNNvV ie. YearDate:NumbervVersion
-# From 0704 through 1412 it is 4-digits, starting at 0001. From 1501 on it is 5-digits, starting at 00001
+# From 0704 through 1412 it is 4-digits, starting at 0001. From 1501 onwards it is 5-digits, starting at 00001
 # more details here : https://info.arxiv.org/help/arxiv_identifier.html#new
 #NOTE: Its unclear why certain errors occur, empty responses or non-existent articles
 
@@ -41,11 +41,11 @@ def id_list_eg():
     with libreq.urlopen(url) as url:
         r = url.read()
     print(r)
-#id_list_eg()\
+#id_list_eg()
 
 #using the start and max_results parameters
 # NOTE:I think we can scratch the idea of using the OAI-PMH protocol as it doesnt retrieve article content. 
-# check how long it took the request to process.
+# I added a check to see how long it took the request to process.
 def start_max_eg(s = 0, m = 1000):
     import time
     start = s
