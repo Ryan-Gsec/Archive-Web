@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3D%26id_list%3D0706.0001%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=&amp;id_list=0706.0001&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/foO1mFZwYrC1XNzWdnB5VOvYS0Q</id>
+  <updated>2025-10-02T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/0706.0001v2</id>
+    <updated>2008-06-01T15:46:15Z</updated>
+    <published>2007-06-01T12:10:57Z</published>
+    <title>Elastic theory of low-dimensional continua and its applications in bio-
+  and nano-structures</title>
+    <summary>  This review presents the elastic theory of low-dimensional (one- and
+two-dimensional) continua and its applications in bio- and nano-structures.
+First, the curve and surface theory, as the geometric representation of the
+low-dimensional continua, is briefly described through Cartan moving frame
+method. The elastic theory of Kirchhoff rod, Helfrich rod, bending-soften rod,
+fluid membrane, and solid shell is revisited. Secondly, the application and
+availability of the elastic theory of low-dimensional continua in
+bio-structures, including short DNA rings, lipid membranes, and cell membranes,
+are discussed. The kink stability of short DNA rings is addressed by using the
+theory of Kirchhoff rod, Helfrich rod, and bending-soften rod. The lipid
+membranes obey the theory of fluid membrane. A cell membrane is simplified as a
+composite shell of lipid bilayer and membrane skeleton, which is a little
+similar to the solid shell. It is found that the membrane skeleton enhances
+highly the mechanical stability of cell membranes. Thirdly, the application and
+availability of the elastic theory of low-dimensional continua in
+nano-structures, including graphene and carbon nanotubes, are discussed. A
+revised Lenosky lattice model is proposed based on the local density
+approximation. Its continuum form up to the second order terms of curvatures
+and strains is the same as the free energy of 2D solid shells. Several typical
+mechanical properties of carbon nanotubes are revisited and investigated based
+on this continuum form. It is possible to avoid introducing the controversial
+concepts, the Young's modulus and thickness of graphene and single-walled
+carbon nanotubes, with this continuum form.
+</summary>
+    <author>
+      <name>Z. C. Tu</name>
+    </author>
+    <author>
+      <name>Z. C. Ou-Yang</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">Review article for J. Comput. Theor. Nanosci., 27 pages, 15 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">J. Comput. Theor. Nanosci. 5, 422-448 (2008)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0706.0001v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0706.0001v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
+##################################################<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3D%26id_list%3D0706.0001%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=&amp;id_list=0706.0001&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/foO1mFZwYrC1XNzWdnB5VOvYS0Q</id>
+  <updated>2025-10-02T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/0706.0001v2</id>
+    <updated>2008-06-01T15:46:15Z</updated>
+    <published>2007-06-01T12:10:57Z</published>
+    <title>Elastic theory of low-dimensional continua and its applications in bio-
+  and nano-structures</title>
+    <summary>  This review presents the elastic theory of low-dimensional (one- and
+two-dimensional) continua and its applications in bio- and nano-structures.
+First, the curve and surface theory, as the geometric representation of the
+low-dimensional continua, is briefly described through Cartan moving frame
+method. The elastic theory of Kirchhoff rod, Helfrich rod, bending-soften rod,
+fluid membrane, and solid shell is revisited. Secondly, the application and
+availability of the elastic theory of low-dimensional continua in
+bio-structures, including short DNA rings, lipid membranes, and cell membranes,
+are discussed. The kink stability of short DNA rings is addressed by using the
+theory of Kirchhoff rod, Helfrich rod, and bending-soften rod. The lipid
+membranes obey the theory of fluid membrane. A cell membrane is simplified as a
+composite shell of lipid bilayer and membrane skeleton, which is a little
+similar to the solid shell. It is found that the membrane skeleton enhances
+highly the mechanical stability of cell membranes. Thirdly, the application and
+availability of the elastic theory of low-dimensional continua in
+nano-structures, including graphene and carbon nanotubes, are discussed. A
+revised Lenosky lattice model is proposed based on the local density
+approximation. Its continuum form up to the second order terms of curvatures
+and strains is the same as the free energy of 2D solid shells. Several typical
+mechanical properties of carbon nanotubes are revisited and investigated based
+on this continuum form. It is possible to avoid introducing the controversial
+concepts, the Young's modulus and thickness of graphene and single-walled
+carbon nanotubes, with this continuum form.
+</summary>
+    <author>
+      <name>Z. C. Tu</name>
+    </author>
+    <author>
+      <name>Z. C. Ou-Yang</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">Review article for J. Comput. Theor. Nanosci., 27 pages, 15 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">J. Comput. Theor. Nanosci. 5, 422-448 (2008)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0706.0001v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0706.0001v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
+##################################################<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3D%26id_list%3D0706.0001%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=&amp;id_list=0706.0001&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/foO1mFZwYrC1XNzWdnB5VOvYS0Q</id>
+  <updated>2025-10-02T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/0706.0001v2</id>
+    <updated>2008-06-01T15:46:15Z</updated>
+    <published>2007-06-01T12:10:57Z</published>
+    <title>Elastic theory of low-dimensional continua and its applications in bio-
+  and nano-structures</title>
+    <summary>  This review presents the elastic theory of low-dimensional (one- and
+two-dimensional) continua and its applications in bio- and nano-structures.
+First, the curve and surface theory, as the geometric representation of the
+low-dimensional continua, is briefly described through Cartan moving frame
+method. The elastic theory of Kirchhoff rod, Helfrich rod, bending-soften rod,
+fluid membrane, and solid shell is revisited. Secondly, the application and
+availability of the elastic theory of low-dimensional continua in
+bio-structures, including short DNA rings, lipid membranes, and cell membranes,
+are discussed. The kink stability of short DNA rings is addressed by using the
+theory of Kirchhoff rod, Helfrich rod, and bending-soften rod. The lipid
+membranes obey the theory of fluid membrane. A cell membrane is simplified as a
+composite shell of lipid bilayer and membrane skeleton, which is a little
+similar to the solid shell. It is found that the membrane skeleton enhances
+highly the mechanical stability of cell membranes. Thirdly, the application and
+availability of the elastic theory of low-dimensional continua in
+nano-structures, including graphene and carbon nanotubes, are discussed. A
+revised Lenosky lattice model is proposed based on the local density
+approximation. Its continuum form up to the second order terms of curvatures
+and strains is the same as the free energy of 2D solid shells. Several typical
+mechanical properties of carbon nanotubes are revisited and investigated based
+on this continuum form. It is possible to avoid introducing the controversial
+concepts, the Young's modulus and thickness of graphene and single-walled
+carbon nanotubes, with this continuum form.
+</summary>
+    <author>
+      <name>Z. C. Tu</name>
+    </author>
+    <author>
+      <name>Z. C. Ou-Yang</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">Review article for J. Comput. Theor. Nanosci., 27 pages, 15 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">J. Comput. Theor. Nanosci. 5, 422-448 (2008)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0706.0001v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0706.0001v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
+##################################################
